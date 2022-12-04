@@ -16,7 +16,6 @@ I am Jamshidbek Ikromov, currently studying at [Ajou university](https://www.ajo
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UlugbekTemirov&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hatsker01&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshidbekIkromov&hide=TeX&layout=compact&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JamshidbekIkromov.JamshidbekIkromov)
