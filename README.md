@@ -4,7 +4,7 @@ I am Jamshidbek Ikromov, currently studying at [Ajou university](https://www.ajo
 
 [![Linkedin Badge](https://img.shields.io/badge/-IkromovJamshidbek-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jamshidbek-ikromov-915b24246///](https://www.linkedin.com/in/jamshidbek-ikromov-915b24246/))](https://www.linkedin.com/in/jamshidbek-ikromov-915b24246/)
 [![Gmail Badge](https://img.shields.io/badge/-jamshidbek1805@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jamshidbek1805@gmail.com)](mailto:tjamshidbek1805@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-_hatsker01-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_hatsker01)](https://www.instagram.com/_hatsker01.exe)
+[![Instagram Badge](https://img.shields.io/badge/-_hatsker01-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_hatsker01)](https://www.instagram.com/_hatsker01)
 
 
 ## ⚡ Technologies
