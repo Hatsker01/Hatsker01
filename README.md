@@ -2,7 +2,6 @@
 
 I am Jamshidbek Ikromov, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am trying to be a Golang developer, now I know Backend development and love writing clean and maintainable code. 
 
- <a href=#><img src="snake.svg"></a>
 
 Find out more about me & feel free to connect with me here:
 
