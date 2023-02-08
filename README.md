@@ -18,7 +18,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-_hatsker01-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_hatsker01)](https://www.instagram.com/_hatsker01)
 
-[![Telegram Badge](https://img.shields.io/badge/-hatsker01-critical?style=flat&logo=telegram&logoColor=white&link=https://t.me/Hatsker01)]
+[![Instagram Badge](https://img.shields.io/badge/-Hatsker01-critical?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Hatsker01)](https://t.me/Hatsker01)
 
 
 
