@@ -1,37 +1,53 @@
-<h1 align="center">Hi 👋, I'm Jamshidbek</h1>
+<h1 align="center">Jamshidbek Ikromov</h1>
+<p align="center"><b>Senior Go Backend Engineer · Team Lead</b></p>
+<p align="center">
+  Tashkent, Uzbekistan (UTC+5) ·
+  <a href="https://solves.hatsker.info">solves.hatsker.info</a> ·
+  <a href="https://www.linkedin.com/in/jamshidbek-ikromov">LinkedIn</a> ·
+  <a href="https://t.me/Hatsker01">Telegram</a>
+</p>
 
-<a href=#><img src="snake.svg"></a>
+---
 
+I design and ship production backends in **Go** — the parts that have to be right: orders that never oversell, payments that never double-charge, auth and RBAC, real-time geolocation, and the data model underneath all of it.
 
-<img align="right" alt="codingGuy" width="350" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+4+ years in commercial backend development. Currently **CTO / Backend Lead** of a 5-person cross-functional team building a used-car marketplace and a B2B SaaS for auto-service businesses. Previously led backend for a bike-sharing & powerbank-rental platform.
 
+## What I do
 
+- **Backend from scratch** — domain model → PostgreSQL schema → REST/gRPC API → deployment, with migrations, tests and docs your frontend team can use on day one.
+- **Correctness under load** — idempotent payment webhooks, transactional stock reservation, outbox pattern for side effects, explicit state machines with audit logs.
+- **Team leadership** — code review, architecture decisions, splitting a monolith into services only when it actually pays off.
 
+## Selected work
 
-Find out more about me & feel free to connect with me here:
+| Project | Role | What I built |
+|---|---|---|
+| **AutoMarket UZ** — used-car marketplace | CTO / Backend Lead · 2025–now | Go microservices over gRPC, PostgreSQL, listings & search, payments and push-notification integrations, role-based access |
+| **B2B SaaS for auto-service businesses** | Backend Lead · 2025–now | Sales & cash-desk flows, stock with low-stock analytics, P&L / balance reports, payment-gateway integration |
+| **Qwatt Bike** — bike-sharing + powerbank rental | Backend Team Lead · 2022–2025 | Order lifecycle (rent → ride → return), real-time geolocation, per-station availability, courier tasks; Go, PostgreSQL, Redis, NATS |
+| **CAR24** — automotive platform | Backend Engineer | Core API and integrations |
 
-[![Linkedin Badge](https://img.shields.io/badge/-IkromovJamshidbek-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jamshidbek-ikromov-915b24246///](https://www.linkedin.com/in/jamshidbek-ikromov-915b24246/))](https://www.linkedin.com/in/jamshidbek-ikromov-915b24246/)
+## Stack
 
-[![Gmail Badge](https://img.shields.io/badge/-jamshidbek1805@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jamshidbek1805@gmail.com)](mailto:tjamshidbek1805@gmail.com)
+**Core:** Go (Chi, gRPC, pgx + sqlc), PostgreSQL / PostGIS, Redis
+**Messaging:** NATS, Kafka
+**Infra:** Docker, Linux, Nginx, S3-compatible storage, GitHub Actions
+**Also ship:** Next.js + TypeScript front-ends with my team for full A–Z products
 
-[![Instagram Badge](https://img.shields.io/badge/-_hatsker01-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_hatsker01)](https://www.instagram.com/_hatsker01)
+## How I work
 
-[![Instagram Badge](https://img.shields.io/badge/-Hatsker01-critical?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Hatsker01)](https://t.me/Hatsker01)
+- Start with the ERD and the API contract — most bugs are schema bugs.
+- Business logic lives in the API, never in the client.
+- Every side effect goes through an outbox; every external call is retried and idempotent.
+- Small PRs, clear commit messages, docs next to the code.
 
+## Contact
 
+Open to backend contracts and full-stack product builds through **[ikromov.solves](https://solves.hatsker.info)**.
+Email: tjamshidbek1805@gmail.com · Telegram: [@Hatsker01](https://t.me/Hatsker01)
 
-## ⚡ Technologies
-
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=golang)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=swagger&logoColor=green)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hatsker01&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatsker01&hide=TeX&layout=compact&theme=dark) 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hatsker01&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatsker01&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages" />
+</p>
