@@ -45,7 +45,7 @@ I design and ship production backends in **Go** — the parts that have to be ri
 ## Contact
 
 Open to backend contracts and full-stack product builds through **[ikromov.solves](https://solves.hatsker.info)**.
-Email: tjamshidbek1805@gmail.com · Telegram: [@Hatsker01](https://t.me/Hatsker01)
+Email: jamshidbek1805@gmail.com · Telegram: [@Hatsker01](https://t.me/Hatsker01)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hatsker01&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
